@@ -5,7 +5,7 @@ function Header() {
     <>
       {/* add flexbox */}
       <header>
-        Joe Pa Media
+        Joe Pa Media Updated
         <nav>
           <ul>
             <li>

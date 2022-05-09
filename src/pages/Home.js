@@ -1,5 +1,11 @@
+import Bio from "../components/Bio";
+
 function Home(props) {
-  return <>hi home</>;
+  return (
+    <>
+      <Bio></Bio>
+    </>
+  );
 }
 
 export default Home;

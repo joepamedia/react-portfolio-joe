@@ -3,4 +3,6 @@
 @import "./background.css";
 @import "./navbar.css";
 @import "./fonts.css";
-@import './flex.css'
+@import './flex.css';
+@import './box.css';
+@import './img.css';

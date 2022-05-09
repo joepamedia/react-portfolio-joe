@@ -1,4 +1,6 @@
-@import "./normalize.css";
 @import "./variables.css";
+@import "./normalize.css";
 @import "./background.css";
-@import "./navbar.css"
+@import "./navbar.css";
+@import "./fonts.css";
+@import './flex.css'

@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <>
-      {/* add flexbox */}
       <section class="top-nav">
         <div>
           <h1>Joe Pa Media</h1>

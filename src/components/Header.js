@@ -13,16 +13,16 @@ function Header() {
         </label>
         <ul class="menu">
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/react-portfolio-joe">Home</Link>
           </li>
           <li>
-            <Link to="/photos">Photos</Link>
+            <Link to="/react-portfolio-joe/photos">Photos</Link>
           </li>
           <li>
-            <Link to="/videos">Videos</Link>
+            <Link to="/react-portfolio-joe/videos">Videos</Link>
           </li>
           <li>
-            <Link to="/coding">Coding</Link>
+            <Link to="/react-portfolio-joe/coding">Coding</Link>
           </li>
         </ul>
       </section>

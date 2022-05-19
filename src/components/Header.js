@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import Resume from "../assets/pdf/Joe Palmisano Resume (1).pdf";
 
 function Header() {
   return (
@@ -13,16 +14,24 @@ function Header() {
         </label>
         <ul className="menu">
           <li>
-            <Link to="/react-portfolio-joe">Home</Link>
+            <Link className="c-white" to="/react-portfolio-joe">
+              Home
+            </Link>
           </li>
           <li>
-            <Link to="/react-portfolio-joe/photos">Photos</Link>
+            <Link className="c-white" to="/react-portfolio-joe/photos">
+              Photos
+            </Link>
           </li>
           <li>
-            <Link to="/react-portfolio-joe/videos">Videos</Link>
+            <Link className="c-white" to="/react-portfolio-joe/videos">
+              Videos
+            </Link>
           </li>
           <li>
-            <Link to="/react-portfolio-joe/coding">Coding</Link>
+            <Link className="c-white" to="/react-portfolio-joe/coding">
+              Coding
+            </Link>
           </li>
         </ul>
       </section>

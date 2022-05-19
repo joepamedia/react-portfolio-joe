@@ -25,16 +25,20 @@ export default () => {
       >
         <SplideSlide>
           <img src={niagaraFalls} className="img" alt="niagarafalls" />
+          Niagara Falls, 2017
         </SplideSlide>
         <SplideSlide>
           <img src={interstateMagic} className="img" alt="i90" />
+          I-90 Time Exposure
         </SplideSlide>
         <SplideSlide>
           <img src={vette} className="img" alt="corvette" />
           <img src={sadie} className="img" alt="impreza" />
+          Car Photography
         </SplideSlide>
         <SplideSlide>
-          <img src={soccerPic} className="img" alt="Image 2" />
+          <img src={soccerPic} className="img" alt="soccer" />
+          Sports Photography
         </SplideSlide>
       </Splide>
     </div>

@@ -8,7 +8,7 @@ export default function Footer() {
         {/* footer card for all members */}
         <div class="footer-content">
           <h3>Contact Me!</h3>
-          <p>Click on a platform to find me there! </p>
+          <p>Click on a platform to find me there! Or click on the paperclip to view my resume!</p>
           <ul class="socials">
             <li>
               <a href="https://linkedin.com/in/joseph-palmisano-jnp" target="_blank">
@@ -18,6 +18,11 @@ export default function Footer() {
             <li>
               <a href="https://github.com/joepamedia" target="_blank">
                 <i class="fa fa-github"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://github.com/joepamedia" target="_blank">
+                <i class="fa fa-paperclip"></i>
               </a>
             </li>
           </ul>

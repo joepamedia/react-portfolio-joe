@@ -17,3 +17,7 @@ html {
     grid-template-rows: auto 1fr auto;
 }
 
+
+iframe {
+    width: 100%
+}

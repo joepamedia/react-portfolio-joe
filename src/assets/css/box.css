@@ -4,13 +4,29 @@
     background-color: #016FB9;
     flex: 1 1 50%;
 }
+.parent {
+  display: flex;
+  height: 150px; /* Or whatever */
+  background-color: #A0ACAD;
+  width: 50px;
+}
 
+.child {
+  width: 100px;  /* Or whatever */
+  height: 100px; /* Or whatever */
+  margin: auto;  /* Magic! */
+}
 
 .flex-container {
     display: flex;
     flex-direction: column;
+    padding-top: 3%;
   }
   
+  .mw {
+  max-width: 1080px;
+  margin: 0 auto
+  }
   /* Responsive layout - makes a one column layout instead of a two-column layout */
   @media (max-width: 800px) {
     .flex-container {
@@ -18,7 +34,3 @@
     }
   }
 /* add media query to change flex to flex 1 1 100% */
-.mw1280 {
-max-width: 1280px;
-margin: 0 auto
-}

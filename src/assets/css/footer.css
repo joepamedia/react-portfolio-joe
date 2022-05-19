@@ -1,15 +1,17 @@
 .footer{
     margin-top: 1rem;
     padding: 1rem;
-    position: fixed;
+    position: relative;
+    background-color: var(--black);
     bottom: 0;
     left: 0;
     width: 100%;
-    color: grey
+    color: grey;
+    z-index: 1;
   }
 
   .footer-content h3{
-    line-height: 3rem;
+    line-height: 6%;
 }
   .footer-content{
     display: flex;

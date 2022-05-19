@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio-joe/static/css/main.d9127ec7.css",
-    "main.js": "/react-portfolio-joe/static/js/main.fb8699e4.js",
+    "main.css": "/react-portfolio-joe/static/css/main.b29f0117.css",
+    "main.js": "/react-portfolio-joe/static/js/main.e3e97fbb.js",
     "static/js/787.03e26940.chunk.js": "/react-portfolio-joe/static/js/787.03e26940.chunk.js",
+    "static/media/_VJP2801site.jpg": "/react-portfolio-joe/static/media/_VJP2801site.346b276a064d14da8482.jpg",
+    "static/media/Niagara Falls,Fireworks, NY lowres.jpg": "/react-portfolio-joe/static/media/Niagara Falls,Fireworks, NY lowres.da4dc1202c3d3660f686.jpg",
+    "static/media/Joes Soccer pic low res.jpg": "/react-portfolio-joe/static/media/Joes Soccer pic low res.e6fa74b049a1c08360ff.jpg",
+    "static/media/franks vette vette.jpg": "/react-portfolio-joe/static/media/franks vette vette.e697d57953076f96e1a4.jpg",
+    "static/media/i90 time exposure lowres.jpg": "/react-portfolio-joe/static/media/i90 time exposure lowres.775a9d8b318f53c19e9b.jpg",
     "static/media/DoubleExposurePalmisano_Joe lowres.jpg": "/react-portfolio-joe/static/media/DoubleExposurePalmisano_Joe lowres.1e4f29500afae24105c6.jpg",
+    "static/media/linkedin-graphic-design-word-text-label-logo-transparent-png-1099496.png": "/react-portfolio-joe/static/media/linkedin-graphic-design-word-text-label-logo-transparent-png-1099496.c5f78862304c9dca8768.png",
     "index.html": "/react-portfolio-joe/index.html",
-    "main.d9127ec7.css.map": "/react-portfolio-joe/static/css/main.d9127ec7.css.map",
-    "main.fb8699e4.js.map": "/react-portfolio-joe/static/js/main.fb8699e4.js.map",
+    "main.b29f0117.css.map": "/react-portfolio-joe/static/css/main.b29f0117.css.map",
+    "main.e3e97fbb.js.map": "/react-portfolio-joe/static/js/main.e3e97fbb.js.map",
     "787.03e26940.chunk.js.map": "/react-portfolio-joe/static/js/787.03e26940.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9127ec7.css",
-    "static/js/main.fb8699e4.js"
+    "static/css/main.b29f0117.css",
+    "static/js/main.e3e97fbb.js"
   ]
 }

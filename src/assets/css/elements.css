@@ -1,6 +1,6 @@
 body {
     height: 100%;
-    width: 100%;
+    max-width: 100%;
 }
 
 html {
@@ -16,3 +16,12 @@ html {
     grid-template-columns: 100%;
     grid-template-rows: auto 1fr auto;
 }
+
+/* @media (max-width: 60%) {
+    body {
+    }
+    html {
+        flex-direction: column;
+        display: flex;
+    }
+} */

@@ -24,6 +24,7 @@ html, body {
   color: #FFF;
   height: 50px;
   padding: 1em;
+  z-index: 1;
 }
 
 .menu {

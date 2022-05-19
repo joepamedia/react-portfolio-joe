@@ -2,8 +2,21 @@
     padding: 10px;
     border: 5px solid #A0ACAD;
     background-color: #016FB9;
-    flex: 1 1 50%
+    flex: 1 1 50%;
 }
+
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Responsive layout - makes a one column layout instead of a two-column layout */
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
+  }
 /* add media query to change flex to flex 1 1 100% */
 .mw1280 {
 max-width: 1280px;

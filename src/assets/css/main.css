@@ -6,4 +6,6 @@
 @import './flex.css';
 @import './box.css';
 @import './img.css';
-@import './elements.css'
+@import './elements.css';
+@import './old.css';
+@import 'footer.css';

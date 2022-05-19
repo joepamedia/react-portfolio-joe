@@ -3,15 +3,15 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <>
-      <section class="top-nav">
+      <section className="top-nav">
         <div>
           <h1>Joe Pa Media</h1>
         </div>
         <input id="menu-toggle" type="checkbox" />
-        <label class="menu-button-container" for="menu-toggle">
-          <div class="menu-button"></div>
+        <label className="menu-button-container" htmlFor="menu-toggle">
+          <div className="menu-button"></div>
         </label>
-        <ul class="menu">
+        <ul className="menu">
           <li>
             <Link to="/react-portfolio-joe">Home</Link>
           </li>

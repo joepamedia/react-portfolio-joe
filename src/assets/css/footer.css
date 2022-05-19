@@ -8,6 +8,9 @@
     color: grey
   }
 
+  .footer-content h3{
+    line-height: 3rem;
+}
   .footer-content{
     display: flex;
     align-items: center;
@@ -43,5 +46,9 @@
 }
 
 .socials a:hover i{
-  color: aqua;
+  color: #016FB9;
+}
+.footer-card{ 
+  border-radius: 25px;
+  padding: 20px;
 }

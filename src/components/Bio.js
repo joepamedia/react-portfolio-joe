@@ -3,7 +3,7 @@ import heroImg from "../assets/images/DoubleExposurePalmisano_Joe lowres.jpg";
 
 function Bio() {
   return (
-    <div className="mw-60">
+    <div>
       <div className="flexwrapper">
         <div class="box">
           <h2>About Me</h2>

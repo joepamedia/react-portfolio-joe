@@ -3,7 +3,9 @@ h2 {
   vertical-align: center;
   text-align: center;
 }
-
+a {
+  text-decoration: none;
+}
 html, body {
   margin: 0;
   height: 100%;

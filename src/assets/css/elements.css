@@ -17,11 +17,3 @@ html {
     grid-template-rows: auto 1fr auto;
 }
 
-/* @media (max-width: 60%) {
-    body {
-    }
-    html {
-        flex-direction: column;
-        display: flex;
-    }
-} */

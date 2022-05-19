@@ -1,6 +1,6 @@
 import React from "react";
 // import { useUser } from "../../utils/UserContext";
-import linkedIn from "../assets/images/linkedin-graphic-design-word-text-label-logo-transparent-png-1099496.png";
+import linkedIn from "../assets/images/linkedin-logo-vectors-and-clipart-for-free-download-symbol-trademark-sign-text-transparent-png-1975582.png";
 export default function Footer() {
   return (
     <div>
@@ -8,15 +8,16 @@ export default function Footer() {
         {/* footer card for all members */}
         <div class="footer-content">
           <h3>Contact Me!</h3>
+          <p>Click on a platform to find me there! </p>
           <ul class="socials">
             <li>
               <a href="https://linkedin.com/in/joseph-palmisano-jnp" target="_blank">
-                <img src={linkedIn} alt="linkedin-logo" class="img-sm" />
+                <i class="fa fa-linkedin-square"></i>
               </a>
             </li>
             <li>
-              <a href="#">
-                <i class="fa fa-twitter"></i>
+              <a href="https://github.com/joepamedia" target="_blank">
+                <i class="fa fa-github"></i>
               </a>
             </li>
           </ul>
@@ -24,13 +25,4 @@ export default function Footer() {
       </footer>
     </div>
   );
-}
-
-{
-  /* <a href="https://linkedin.com/in/joseph-palmisano-jnp" target="_blank">
-                <img src="./assets/images/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" alt="linkedin-logo" class="img-sm" />
-              </a>
-              <a href="https://github.com/joepamedia" target="_blank">
-                <img src="./assets/images/Github25231.png" class="img-sm" />
-              </a> */
 }

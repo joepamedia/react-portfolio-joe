@@ -1,6 +1,4 @@
-import Carousel from "../components/Carousel";
 import VideoCarousel from "../components/VideoCarousel";
-import Video from "../components/VideoCarousel";
 
 function Videos(props) {
   return (

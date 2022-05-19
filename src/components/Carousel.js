@@ -42,23 +42,5 @@ export default () => {
         </SplideSlide>
       </Splide>
     </div>
-
-    // <Splide
-    //   options={{
-    //     rewind: true,
-    //     gap: "1rem",
-    //   }}
-    //   aria-label="My Favorite Images"
-    // >
-    //   <SplideSlide>
-    //     <img src={niagaraFalls} alt="Image 1" />
-    //   </SplideSlide>
-    //   <SplideSlide>
-    //     <img src="image2.jpg" alt="Image 2" />
-    //   </SplideSlide>
-    //   <SplideSlide>
-    //     <img src="image3.jpg" alt="Image 3" />
-    //   </SplideSlide>
-    // </Splide>
   );
 };

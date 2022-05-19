@@ -1,5 +1,19 @@
+import CodingCarousel from "../components/CodingCarousel";
+
 function Coding(props) {
-  return <> this is the Coding page</>;
+  return (
+    <>
+      <div className="flex-container">
+        <div className="box">
+          <h2>Coding</h2>
+          <p className="ta">
+            These are some apps that I've made so far! Use the arrows to see other projects!
+          </p>
+          <CodingCarousel />
+        </div>
+      </div>
+    </>
+  );
 }
 
 export default Coding;

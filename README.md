@@ -16,8 +16,7 @@
 
 # Description
 
-This is a React application that allows users to search a database of books. The google books api search is built using GraphQL API and Apollo Server. This project uses the MERN stack, which consists of a React Front End, MongoDB, NodeJS and ExpressJS.
-
+This is a React application that highlights my photography, videography, and coding that I have created so far! This was made with React!
 # Installation
 
 First, make sure you have Node.js installed. [Click here](https://nodejs.org/en/download/) to install Node JS.
@@ -33,10 +32,10 @@ npm i
 Finally, run the server using:
 
 ```
-npm run develop
+npm run start
 ```
 
-Upon the server being started, the Mongoose models and synced to MongoDB, where the data is stored. When the user searches for a book, the title is given back to the, with the best match made with their search.
+
 
 # Contributions
 

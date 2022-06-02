@@ -1,5 +1,4 @@
 import React from "react";
-import niagaraFalls from "../assets/images/Niagara Falls,Fireworks, NY lowres.jpg";
 import Carousel from "../components/Carousel";
 
 function Photos(props) {

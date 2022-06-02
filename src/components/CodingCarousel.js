@@ -44,7 +44,7 @@ export default () => {
           <p className="ta-sm">Click the image to view the applications</p>
         </SplideSlide>
         <SplideSlide>
-          <p className="ta-g"> Team Profile Viewer </p>
+          <p className="ta-g"> Note Taker </p>
           <a href="https://note-taker-joepa.herokuapp.com/" target="_blank">
             <img src={noteTaker} className="img" alt="corvette" />
           </a>

@@ -19,6 +19,7 @@ html, body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  overflow: hidden;
   background-color: #011638;
   background: linear-gradient(to right, #011638, #016FB9);
   color: #FFF;
@@ -38,6 +39,7 @@ html, body {
 .menu > li {
   margin: 0 1rem;
   overflow: hidden;
+
 }
 
 .menu-button-container {
@@ -130,3 +132,4 @@ html, body {
     border-bottom: 1px solid #444;
   }
 }
+

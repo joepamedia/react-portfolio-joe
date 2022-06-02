@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import Resume from "../assets/pdf/Joe Palmisano Resume (1).pdf";
 
 function Header() {
   return (

@@ -4,9 +4,9 @@ import Header from "./Header";
 function Layout(props) {
   return (
     <>
-      <Header></Header>
+      <Header className="d-f"></Header>
       <main className="mw">{props.children}</main>
-      <Footer></Footer>
+      <Footer className="d-f"></Footer>
     </>
   );
 }

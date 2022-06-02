@@ -21,3 +21,7 @@ html {
 iframe {
     width: 100%
 }
+
+.d-f {
+    display: flex;
+}

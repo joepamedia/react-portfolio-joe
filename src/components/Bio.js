@@ -19,6 +19,10 @@ function Bio() {
             <br />
             Upon graduation, I plan to maintain freelance media work, and additionally I plan to
             continue practice web development and learn new languages like Python!
+            <br />
+            <br />
+            In my freetime, I enjoy watching movies or TV shows, gaming, playing hockey, watching
+            sports, photography, and being with family and friends.
           </p>
         </div>
         <div className="img-border">

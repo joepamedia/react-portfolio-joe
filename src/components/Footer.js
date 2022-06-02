@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../assets/pdf/Joe Palmisano Resume (1).pdf";
+import Resume from "../assets/pdf/resume.pdf";
 
 // import { useUser } from "../../utils/UserContext";
 export default function Footer() {

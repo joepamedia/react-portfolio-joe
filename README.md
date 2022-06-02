@@ -48,7 +48,7 @@ This project's license is MIT.
 # Links
 
 [Repo](https://github.com/joepamedia/MERN-book-search)
-[Deployed Link](https://mysterious-scrubland-24592.herokuapp.com/)
+[Deployed Link](https://joepamedia.github.io/react-portfolio-joe/)
 
 # Questions
 

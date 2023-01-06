@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-joe/static/css/main.bc2929b6.css",
+    "main.js": "/react-portfolio-joe/static/js/main.c6e38f13.js",
+    "static/js/787.03e26940.chunk.js": "/react-portfolio-joe/static/js/787.03e26940.chunk.js",
+    "static/media/_VJP2801site.jpg": "/react-portfolio-joe/static/media/_VJP2801site.346b276a064d14da8482.jpg",
+    "static/media/Niagara Falls,Fireworks, NY lowres.jpg": "/react-portfolio-joe/static/media/Niagara Falls,Fireworks, NY lowres.da4dc1202c3d3660f686.jpg",
+    "static/media/Joes Soccer pic low res.jpg": "/react-portfolio-joe/static/media/Joes Soccer pic low res.e6fa74b049a1c08360ff.jpg",
+    "static/media/franks vette vette.jpg": "/react-portfolio-joe/static/media/franks vette vette.e697d57953076f96e1a4.jpg",
+    "static/media/i90 time exposure lowres.jpg": "/react-portfolio-joe/static/media/i90 time exposure lowres.775a9d8b318f53c19e9b.jpg",
+    "static/media/DoubleExposurePalmisano_Joe lowres.jpg": "/react-portfolio-joe/static/media/DoubleExposurePalmisano_Joe lowres.1e4f29500afae24105c6.jpg",
+    "static/media/IMG_9826.JPG": "/react-portfolio-joe/static/media/IMG_9826.d1625af11a85c128b56e.JPG",
+    "static/media/petrolpirate.jpg": "/react-portfolio-joe/static/media/petrolpirate.bf083469342f10b2e09e.jpg",
+    "static/media/douneedumbrella.jpg": "/react-portfolio-joe/static/media/douneedumbrella.06ac4688e86369fa1bf2.jpg",
+    "static/media/weatherdashboard.jpg": "/react-portfolio-joe/static/media/weatherdashboard.7540b38d37d2d152a8d2.jpg",
+    "static/media/tech-blogSS.jpg": "/react-portfolio-joe/static/media/tech-blogSS.d2e66614259e2e722fb2.jpg",
+    "static/media/Joe Palmisano Resume (1).pdf": "/react-portfolio-joe/static/media/Joe Palmisano Resume (1).2e66f85c682bd623a126.pdf",
+    "static/media/notetakerSS.jpg": "/react-portfolio-joe/static/media/notetakerSS.7edbdfb10f4292e6baf4.jpg",
+    "index.html": "/react-portfolio-joe/index.html",
+    "main.bc2929b6.css.map": "/react-portfolio-joe/static/css/main.bc2929b6.css.map",
+    "main.c6e38f13.js.map": "/react-portfolio-joe/static/js/main.c6e38f13.js.map",
+    "787.03e26940.chunk.js.map": "/react-portfolio-joe/static/js/787.03e26940.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc2929b6.css",
+    "static/js/main.c6e38f13.js"
+  ]
+}

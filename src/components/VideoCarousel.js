@@ -18,6 +18,57 @@ export default () => {
           gap: "1rem",
         }}
       >
+        {/* reel */}
+        <SplideSlide className="video">
+          <div className="vidcontainer">
+            <iframe
+              src="https://www.youtube.com/embed/-oDVs7gYUNk"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </SplideSlide>
+        {/* wedding long */}
+        <SplideSlide className="video">
+          <div className="vidcontainer">
+            <iframe
+              src="https://www.youtube.com/embed/3JF8mRbbuaI"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </SplideSlide>
+        {/* keyla italy */}
+        <SplideSlide className="video">
+          <div className="vidcontainer">
+            <iframe
+              src="https://www.youtube.com/embed/ghfJ-ctEhlQ"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </SplideSlide>
+        {/* kelly italy */}
+
+        {/* everblades */}
+        <SplideSlide className="video">
+          <div className="vidcontainer">
+            <iframe
+              src="https://www.youtube.com/embed/IWyWHCiIJm4"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </SplideSlide>
+        {/* kelly italy */}
         <SplideSlide className="video">
           <div className="vidcontainer">
             <iframe
@@ -29,6 +80,7 @@ export default () => {
             ></iframe>
           </div>
         </SplideSlide>
+        {/* Mag mile */}
         <SplideSlide>
           <div className="vidcontainer">
             <iframe
@@ -40,6 +92,7 @@ export default () => {
             ></iframe>
           </div>
         </SplideSlide>
+        {/* cork at park */}
         <SplideSlide>
           <div className="vidcontainer">
             <iframe
@@ -51,6 +104,7 @@ export default () => {
             ></iframe>
           </div>
         </SplideSlide>
+        {/* cork parade */}
         <SplideSlide>
           <div className="vidcontainer">
             <iframe

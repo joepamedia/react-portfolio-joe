@@ -10,11 +10,10 @@ function Bio() {
           <h2>About Me</h2>
           <p class="ta">
             My name is Joseph Palmisano, and I am a freelance visual artist based in Norridge,
-            Illinois. In my years of working in this industry, I have traveled domestically and
-            internationally on jobs with clients to meet their needs. In addition to visual arts, I
-            am a Full Stack Web Developer, and have been in training since November of 2021, when I
-            began the Northwestern Full Stack Flex coding bootcamp. My approximate graduation is May
-            24th!
+            Illinois. In my years of working in this industry, I've traveled domestically and
+            internationally on jobs with clients to meet their needs from documentmenting sports,
+            weddings, conferences, and more. Additionally, I am a Junior Full Stack Web Developer,
+            certified from Northwestern University's Coding Bootcamp.
             <br />
             <br />
             Upon graduation, I plan to maintain freelance media work, and additionally I plan to
